@@ -3115,10 +3115,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2910369072285174331, guid: 27847819c33a01f4e973373f05520793, type: 3}
-      propertyPath: m_SortingOrder
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2910369072285174332, guid: 27847819c33a01f4e973373f05520793, type: 3}
       propertyPath: m_Name
       value: PurpleMonster
@@ -3294,10 +3290,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4596499294141773147, guid: d291b0f6dd1ed5945a70f062115aee24, type: 3}
-      propertyPath: m_SortingOrder
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d291b0f6dd1ed5945a70f062115aee24, type: 3}
 --- !u!1001 &5198508367841182369
@@ -3363,6 +3355,10 @@ PrefabInstance:
       propertyPath: m_Targets.Array.data[2].target
       value: 
       objectReference: {fileID: 1387525305}
+    - target: {fileID: 5198508367754328798, guid: 849be39c63c4e794184c3dc288bc05d0, type: 3}
+      propertyPath: orthographic size
+      value: 4.3312497
+      objectReference: {fileID: 0}
     - target: {fileID: 6930241819055008539, guid: 849be39c63c4e794184c3dc288bc05d0, type: 3}
       propertyPath: m_Name
       value: CameraSettup
