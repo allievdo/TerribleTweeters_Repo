@@ -27,6 +27,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -41,7 +42,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: -683419153382232631, guid: 012361b5821b3604db95b9d86bdb7027, type: 2}
-  m_audioClip: {fileID: 8300000, guid: 9609408d0e918944caf44fe1263b4306, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 91d3eb9245d68aa48bbb2b9183880ac6, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
